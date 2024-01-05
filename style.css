@@ -1,0 +1,99 @@
+
+.container {
+    border: 10px solid #f1f112; 
+    background-color: #eded16; 
+}
+h1 {
+ color: rgb(10, 11, 1);
+ font-family: Arial;
+ padding: 12px;
+ background-color:white;
+ border-style: dashed;
+}
+
+div {
+  background-color: #eaea17;
+}
+
+p {
+  color: #fff;
+  padding: 5px;
+  margin: 0;
+  font-family: Arial; 
+  font-size: 10px;
+}
+
+p.first {
+ background-color: rgb(170, 220, 33);
+ color:black
+}
+
+p.second {
+ background-color: rgb(170, 230, 18); 
+ color:black       
+}
+
+p.third {
+ background-color: #8df11b;   
+ color:black       
+}
+
+p.fourth {
+ background-color: #b2ef0b;  
+ color:black        
+}
+
+p.fifth {
+ background-color: #75e823;  
+ color:black        
+}
+
+p.six {
+ background-color: #2ae32d; 
+ color:black         
+}
+
+p.seven {
+ background-color: #1eb751;   
+ color:black       
+}
+
+p.eight {
+ background-color: #32e9e3;  
+ color:black
+    
+}
+
+p.nine {
+ background-color: #e7cdab;  
+ color:black        
+}
+
+p.ten {
+ background-color: #edc48a;  
+ color:black        
+}
+p.eleven {
+ background-color: #fab758;
+ color:black  
+}
+
+p.twelve {
+ background-color: #f19456;    
+ color:black  
+}
+
+p.thirteen {
+ background-color: #e36628; 
+ color:black       
+}
+
+p.fourteen {
+ background-color: #db2a24;  
+ color:black     
+}
+
+p.fifthteen {
+ background-color: #fa0c0c;     
+ color:black   
+}
